@@ -21,25 +21,38 @@
 
   Pagina criada para conter os links para as minhas redes sociais.
 
+<br>
+
 * ### Objetivo do Projeto
 
   Estruturar uma pagina para conter os links que irão redirecionar os visitantes para as minhas redes sociais.
 
+<br>
+
 * ### Imagens do Projeto
 
-    ![Imagem 1]()
+    ![Imagem 1](./image/img-1.png)
 
-    ![Imagem 2]()
+    ![Imagem 2](./image/img-2.jpg)
 
-    ![Imagem 3]()
+    ![Imagem 3](./image/img-3.png)
+
+<br>
 
 * ### Link do Projeto
-
-    Github Pages: [LinkTree]() 
+ 
+<br>
+    Github Pages: [LinkTree](https://patejo-coder.github.io/linketree/) 
 
 ## Meu Processo 
 
   Comecei pela ideia de como seria o designer da página, depois disso parti para o HTML construindo a base e definindo as tags a serem usadas, tentando manter o minimo de semantica possivel, por fim atravês do CSS comecei a estilizar e a dar um visual mais agradavel para o projeto. Já na parte final para finalizar o projeto atravês do JavaScript, adicionei algumas funções para manipular, animar e dar movimento para alguns elementos do projeto, dando um pouco mais de interatividade para os elementos da pagina. 
+
+<br>
+
+### Tecnologias Usadas
+
+<br>
 
 <div>
 <img src="./icons/html.png" width="10%" heigth="10%" alt="Icone HTML 5" />
@@ -49,14 +62,18 @@
 <img src="./icons/js.png" width="10%" heigth="10%" alt="Icone JavaScipt" />
 </div>
 
-
 * ### Fontes Consultadas 
+
+<br>
 
   [W3School - addEventListener()](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
 
 * ### Possiveis Melhorias
 
+<br>
+
 Melhor estruturação da página no HTML, e também uma melhor construção semântica da página.
+Adição dos estilos CSS responsaveis pela responsividade do projeto.
 
 ## Autor
 
