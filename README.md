@@ -42,11 +42,11 @@
   Comecei pela ideia de como seria o designer da página, depois disso parti para o HTML construindo a base e definindo as tags a serem usadas, tentando manter o minimo de semantica possivel, por fim atravês do CSS comecei a estilizar e a dar um visual mais agradavel para o projeto. Já na parte final para finalizar o projeto atravês do JavaScript, adicionei algumas funções para manipular, animar e dar movimento para alguns elementos do projeto, dando um pouco mais de interatividade para os elementos da pagina. 
 
 <div>
-<img src="./icons/html.png" width="15%" heigth="15%" alt="Icone HTML 5" />
+<img src="./icons/html.png" width="10%" heigth="10%" alt="Icone HTML 5" />
 
-<img src="./icons/css-3.png" width="15%" heigth="15%" alt="Icone CSS 3" />
+<img src="./icons/css-3.png" width="10%" heigth="10%" alt="Icone CSS 3" />
 
-<img src="./icons/js.png" width="15%" heigth="15%" alt="Icone JavaScipt" />
+<img src="./icons/js.png" width="10%" heigth="10%" alt="Icone JavaScipt" />
 </div>
 
 
