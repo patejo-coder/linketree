@@ -42,7 +42,7 @@
 * ### Link do Projeto
  
 <br>
-    Github Pages[LinkTree](https://patejo-coder.github.io/linketree/)
+    Github Pages: https://patejo-coder.github.io/linketree/
 
 ## Meu Processo 
 
